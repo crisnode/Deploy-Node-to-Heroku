@@ -1,0 +1,24 @@
+{
+  "name": "Deploy-Node-to-Heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisnode/Deploy-Node-to-Heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisnode/Deploy-Node-to-Heroku/issues"
+  },
+  "homepage": "https://github.com/crisnode/Deploy-Node-to-Heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.37.0"
+  }
+}
